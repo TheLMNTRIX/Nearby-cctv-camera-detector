@@ -1,0 +1,8 @@
+firebase-admin
+fastapi
+uvicorn
+pydantic[email]
+geopy
+pandas
+openpyxl
+python-multipart
